@@ -9,6 +9,7 @@ module.exports = {
         primary: "#3B53A1",
         secondary: "#F28A47",
         tertiary: "#000",
+        disabled: "#444444",
         bgMain: "#FFF",
       },
       fontFamily: {
